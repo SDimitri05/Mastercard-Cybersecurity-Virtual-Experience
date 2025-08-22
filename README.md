@@ -1,6 +1,6 @@
 # Mastercard Cybersecurity Virtual Experience.
 
-Simulated Security Analyst Role—Phishing Simulation &amp; Awareness Campaign
+Simulated Security Analyst Role—Phishing Simulation &amp; Awareness Campaign.
 
 - This self-paced virtual experience simulated working as a Security Analyst on Mastercard's Security Awareness Team, designed as part of The Forage's job simulation platform (1–2 hours of guided tasks).
 
